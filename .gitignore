@@ -1,0 +1,9 @@
+node_modules/
+public/images/
+public/images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
